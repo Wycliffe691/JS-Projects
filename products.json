@@ -1,0 +1,132 @@
+{
+    "items": [
+        {
+            "sys": {
+                "id": "1"
+            },
+            "fields": {
+                "title": "queen panel bed",
+                "price": 300.99,
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "./Photos/product-1.jpeg"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "2"
+            },
+            "fields": {
+                "title": "king panel bed",
+                "price": 272.99,
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "./Photos/product-2.jpeg"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "3"
+            },
+            "fields": {
+                "title": "single panel bed",
+                "price": 120.99,
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "./Photos/product-3.jpeg"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "4"
+            },
+            "fields": {
+                "title": "twin panel bed",
+                "price": 220.99,
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "./Photos/product-4.jpeg"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "5"
+            },
+            "fields": {
+                "title": "fridge",
+                "price":150.99,
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "./Photos/product-5.jpeg"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "6"
+            },
+            "fields": {
+                "title": "dresser",
+                "price": 99.99,
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "./Photos/product-6.jpeg"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "7"
+            },
+            "fields": {
+                "title": "couch",
+                "price": 95.99,
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "./Photos/product-7.jpeg"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "8"
+            },
+            "fields": {
+                "title": "table",
+                "price": 73.99,
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "./Photos/product-8.jpeg"
+                        }
+                    }
+                }
+            }
+        }
+    ]
+}
